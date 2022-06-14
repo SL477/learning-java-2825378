@@ -14,3 +14,7 @@ _Software Developer_
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-java-4
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2825378/2825378-1584377756312-16x9.jpg
+
+### My notes
+
+Javac to compile java to run
